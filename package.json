@@ -1,0 +1,29 @@
+{
+  "name": "vow-exec",
+  "version": "0.0.1",
+  "description": "Vow-wrapper around node `exec' call",
+  "main": "exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmikis/vow-exec.git"
+  },
+  "keywords": [
+    "vow",
+    "exec"
+  ],
+  "author": "Kirill S. Dmitrenko <kdmitrenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmikis/vow-exec/issues"
+  },
+  "homepage": "https://github.com/dmikis/vow-exec",
+  "files": [
+    "exec.js"
+  ],
+  "dependencies": {
+    "vow": "^0.4.6"
+  }
+}
